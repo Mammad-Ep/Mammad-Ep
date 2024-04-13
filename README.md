@@ -3,7 +3,7 @@
 - 🌱 I'm currently discussing front-end learning programming.
 - 💞️ I'm looking for a python collaboration.
 - 📫 The contact details for me are via the LinkedIn, Telegram and Instagram pages on the GitHub profile.
-- 😄 Pronouns: Programming , IT , Learning
+- 😄 Activities: Programming , IT , Learning
 - ⚡ Fun fact: I try to help others access the free internet.
 
 <!---
